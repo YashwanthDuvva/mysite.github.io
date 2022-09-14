@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 10px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    color: #66BFBF;
+    line-height: 2;
+    
+}
+h2{
+    font-size: 30px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.top-container{
+
+    background-color: #E4F9F5;
+    height: 900px;
+}
+
+.skills{
+    width: 50%;
+    margin: 50px auto 100px auto;
+   
+    
+    
+}
+.computer{
+    width: 25%;
+    
+    
+}
+.batminton{
+    width: 25%;
+    
+    
+}
+
+.top-cloud{
+    position: relative;
+    left: 250px;
+    padding-top: 100px;
+
+}
+.bottom-cloud{
+    position: absolute;
+}
+.mountain{
+    height: 450px;
+}
+span{
+    display: inline-block;
+}
